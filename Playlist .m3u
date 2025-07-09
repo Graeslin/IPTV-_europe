@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="France 24" group-title="News",France 24 (France)
+https://edge.france24.m3u8
+#EXTINF:-1 tvg-name="RAI 1" group-title="Entertainment",RAI 1 (Italy)
+https://stream.rai.it/rai1.m3u8
+#EXTINF:-1 tvg-name="ZDF" group-title="Movies",ZDF (Germany)
+https://zdfstream.live/zdf.m3u8
+#EXTINF:-1 tvg-name="BBC One" group-title="Series",BBC One (UK)
+https://bbc.uk/live/bbcone.m3u8
+#EXTINF:-1 tvg-name="RTÉ Sport" group-title="Sports",RTÉ Sport (Ireland)
+https://rte.ie/live/sport.m3u8
+#EXTINF:-1 tvg-name="Netflix Originals (Trailers)" group-title="Netflix",Netflix Originals (Trailers) (Multi)
+https://trailers.netflix.com/europe.m3u8
